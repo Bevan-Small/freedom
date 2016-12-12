@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Freedom</string>
+
+    <string name = "action_email">Submit an Activity</string>
+
+    <string name="region">Region</string>
+    <string name="array_list_result_decriptive_image">Decriptive image</string>
+
+
+
+    <string-array name="regions_array">
+        <item>Select a Region</item>item>
+        <item>Northland</item>
+        <item>Auckland</item>
+        <item>Central North Island</item>
+        <item>Lower North Island</item>
+        <item>Marlborough and Tasman</item>
+        <item>Canterbury</item>
+        <item>West Coast</item>
+        <item>Otago</item>
+        <item>Southland</item>
+    </string-array>
+
+
+</resources>
