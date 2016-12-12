@@ -1,7 +1,7 @@
 package nz.co.smallcode.freedom;
 
 /**
- * Created by Bevan on 13-Dec-16. New project with copied files from old Freedom to rename packages
+ * Created by Bevan on 13-Dec-16. Testing github tracking
  */
 
 import android.content.Intent;
